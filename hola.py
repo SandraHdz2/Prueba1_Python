@@ -1,5 +1,5 @@
 """
-#comentario (gato), largo (doble comilla)
+#comentario (gato), largo (triple comilla)
 a= "Sandra Hdz"
 b=20
 print ("Welcome to Python")
